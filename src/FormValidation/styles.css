@@ -1,0 +1,21 @@
+#form {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 200px;
+}
+
+#submit {
+    position: absolute;
+    top: 170px;
+    left: 150px;
+    width: 50px;
+}
+
+#username-error {
+    font-size: 0.8em;
+    color: red;
+}
