@@ -1,4 +1,4 @@
-package TV;
+package javaProjects.tv;
 
 public class SamsungTV implements TV {
 

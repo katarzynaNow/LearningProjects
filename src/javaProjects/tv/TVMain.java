@@ -1,4 +1,4 @@
-package TV;
+package javaProjects.tv;
 
 import java.util.Scanner;
 

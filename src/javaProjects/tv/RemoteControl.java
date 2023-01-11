@@ -1,4 +1,4 @@
-package TV;
+package javaProjects.tv;
 
 public interface RemoteControl {
     void pressRed();

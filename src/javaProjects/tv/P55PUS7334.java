@@ -1,4 +1,4 @@
-package TV;
+package javaProjects.tv;
 
 public class P55PUS7334 extends PhilipsAmbilightTV {
 

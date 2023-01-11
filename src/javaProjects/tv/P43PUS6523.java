@@ -1,4 +1,4 @@
-package TV;
+package javaProjects.tv;
 
 public class P43PUS6523 extends PhilipsTV {
 

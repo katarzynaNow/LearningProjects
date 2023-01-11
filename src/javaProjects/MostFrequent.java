@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package javaProjects;
 
 public class MostFrequent {
     public static void main(String[] args) {

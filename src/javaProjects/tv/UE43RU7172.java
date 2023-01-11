@@ -1,4 +1,4 @@
-package TV;
+package javaProjects.tv;
 
 public class UE43RU7172 extends SamsungTV {
     private String id;
