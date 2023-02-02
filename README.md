@@ -11,7 +11,7 @@ The LearningProjects repository contains files with small projects created to pr
 - [ChristmasTree](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/ChristmasTree.java) – loops, conditional statements, Random class
 - [Clock](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/Clock.java) – threads, loops, exceptions
 - [FourDPoint](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/FourDPoint.java) – inheritance, static methods
-- [InstanceCounter](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/InstanceCounter.java) – static methods/variables, constructors, loops
+- [InstanceCounter](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/InstanceCounter.java) – static methods/variables, constructors, loops, access modifiers
 - [MostFrequent](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/MostFrequent.java) – arrays, loops, conditional statements
 - [NumberPresenter](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/NumberPresenter.java) – creating methods, number systems, number formatting 
 <br><br>jsProjects:<br><br>
