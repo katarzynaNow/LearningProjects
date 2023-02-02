@@ -3,7 +3,7 @@ package javaProjects;
 public class InstanceCounter {
     private static int numInstances = 0;
 
-    public static int getNumInstances() {//geter też statyczny automatycznie
+    public static int getNumInstances() {
         return numInstances;
     }
 
