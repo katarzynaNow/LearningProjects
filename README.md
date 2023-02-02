@@ -8,6 +8,7 @@ The LearningProjects repository contains files with small projects created to pr
 - [shelter](https://github.com/katarzynaNow/LearningProjects/tree/master/src/javaProjects/shelter) – inheritance, overriding methods, filling the array with elements of a randomly selected class
 - [toyota](https://github.com/katarzynaNow/LearningProjects/tree/master/src/javaProjects/toyota) – filling the array with elements of a randomly selected class and parameters, using getters to obtain information about the statistics of created objects, if-else statements
 - [tv](https://github.com/katarzynaNow/LearningProjects/tree/master/src/javaProjects/tv) – interface, inheritance, getters and setters, overriding methods, exceptions, threads
+- [washingMachine](https://github.com/katarzynaNow/LearningProjects/tree/master/src/javaProjects/washingMachine) – access modifiers, toString method 
 - [ChristmasTree](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/ChristmasTree.java) – loops, conditional statements, Random class
 - [Clock](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/Clock.java) – threads, loops, exceptions
 - [FourDPoint](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/FourDPoint.java) – inheritance, static methods
