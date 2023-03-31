@@ -1,5 +1,5 @@
 # learning-java-js
-The learning-java-js repository contains files with small projects created to practice my skills in programming. The files are divided into two main packages: Java and JavaScript. Each one of them contains files written in these two languages respectively. Below, you will find the list of the programs with key elements practised.<br>
+The learning-java-js repository contains files with exercises created to practice my skills in programming. The files are divided into two main packages: Java and JavaScript. Each one of them contains files written in these two languages respectively. Below, you will find the list of the programs with key elements practised.<br>
 <br>
 &emsp; &ensp; javaProjects:
 - [ageTester](https://github.com/katarzynaNow/LearningProjects/tree/master/src/javaProjects/ageTester) – creating a custom exception, exception handling
