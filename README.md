@@ -24,6 +24,7 @@ The learning-java-js repository contains files with exercises created to practic
 - [MostFrequent](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/MostFrequent.java) – arrays, loops, conditional statements
 - [NumberPresenter](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/NumberPresenter.java) – creating methods, number systems, number formatting 
 - [sqrt](https://github.com/katarzynaNow/LearningProjects/blob/master/src/javaProjects/Sqrt.java) – Scanner class, exception handling (try – catch – finally block)
+- [furniture](https://github.com/katarzynaNow/learning-java-js/tree/master/src/javaProjects/furniture) - equals() and hashCode() methods, set collection, iterator
 <br><br>jsProjects:<br><br>
 - [addDeleteElements](https://github.com/katarzynaNow/LearningProjects/tree/master/src/jsProjects/addDeleteElements) – EventListener, editing the content of elements
 - [album](https://github.com/katarzynaNow/LearningProjects/tree/master/src/jsProjects/album) – HTML elements with CSS formatting
