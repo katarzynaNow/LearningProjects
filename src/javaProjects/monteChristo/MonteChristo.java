@@ -1,4 +1,4 @@
-package javaProjects.MonteChristo;
+package javaProjects.monteChristo;
 
 import java.io.IOException;
 import java.nio.file.Files;
