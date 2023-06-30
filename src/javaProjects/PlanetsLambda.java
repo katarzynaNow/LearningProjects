@@ -25,5 +25,9 @@ public class PlanetsLambda {
         System.out.print("Wg długości nazwy: ");
         Arrays.sort(planets, (o1, o2) -> o1.length() - o2.length());
         Arrays.asList(planets).forEach(s -> System.out.print(s + " "));
+
+        System.out.print("\nWg ostatniej litery nazwy: ");
+        Arrays.sort(planets, (o1, o2) -> o1.charAt(o1.length()-1) - o2.charAt(o2.length()-1));
+        Arrays.asList(planets).forEach(s -> System.out.print(s + " "));
     }
 }
