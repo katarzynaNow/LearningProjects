@@ -31,6 +31,7 @@ The learning-java-js repository contains files with exercises created to practic
 - [AnonymousClasses](https://github.com/katarzynaNow/learning-java-js/blob/master/src/javaProjects/AnonymousClasses.java) - static inner class, anonymous inner class, nested interface
 - [Outer](https://github.com/katarzynaNow/learning-java-js/blob/master/src/javaProjects/Outer.java) - inner classes
 - [PlanetsLambda](https://github.com/katarzynaNow/learning-java-js/blob/master/src/javaProjects/PlanetsLambda.java) - anonymous class, lambda expression, Arrays utility class
+- [ListFilterLambda](https://github.com/katarzynaNow/learning-java-js/blob/master/src/javaProjects/ListFilerLambda.java) - list collection, lambda expression, loops
 <br><br>jsProjects:<br><br>
 - [addDeleteElements](https://github.com/katarzynaNow/LearningProjects/tree/master/src/jsProjects/addDeleteElements) – EventListener, editing the content of elements
 - [album](https://github.com/katarzynaNow/LearningProjects/tree/master/src/jsProjects/album) – HTML elements with CSS formatting
